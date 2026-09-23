@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 # =============================================================================
-# Site Information — replace these placeholders per project
+# Site Information
 # =============================================================================
 
 site_name: Pushit
@@ -25,7 +25,7 @@ extra:
   language_picker: true
   # Optional short label for the header GitHub link.
   # If omitted, uses the repo segment of repo_name (org/repo → repo).
-  # repo_display_name: your-project
+  repo_display_name: Pushit
   # Footer (rendered by overrides/partials/copyright.html).
   footer_name: The Lupaxa Project
   footer_taglines:
@@ -156,5 +156,3 @@ extra_javascript:
 # =============================================================================
 # Copyright (rendered by overrides/partials/copyright.html)
 # =============================================================================
-
-copyright: Copyright (c) The Lupaxa Project
