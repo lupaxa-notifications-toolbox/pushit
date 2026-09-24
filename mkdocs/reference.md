@@ -1,6 +1,6 @@
 # Reference
 
-## Command flags
+## Command Flags
 
 | Flag                 | Default              | Description                                           |
 | -------------------- | -------------------- | ----------------------------------------------------- |
@@ -24,7 +24,7 @@
 | `--timeout`, `-T`    | profile, else `10`   | Positive timeout in seconds                           |
 | `--version`          | —                    | Print the package version                             |
 
-## Profile fields
+## Profile Fields
 
 | Field         | Rule                                                                   |
 | ------------- | ---------------------------------------------------------------------- |
@@ -40,7 +40,7 @@
 | `retry`       | Integer at least 30; used only for emergency sends                     |
 | `expire`      | Integer from 1 through 10,800; used only for emergency sends           |
 
-## Exit codes
+## Exit Codes
 
 | Code | Meaning                                                       |
 | ---- | ------------------------------------------------------------- |

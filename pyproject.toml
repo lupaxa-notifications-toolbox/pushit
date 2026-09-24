@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "lupaxa-pushit"
 dynamic = ["version"]
 description = "Send Pushover notifications."
-readme = "README-PYPI.md"
+readme = "README.md"
 license = { file = "LICENCE" }
 requires-python = ">=3.13"
 
@@ -68,7 +68,6 @@ path = "src/lupaxa/pushit/version.py"
 include = [
   "src/**",
   "README.md",
-  "README-PYPI.md",
   "LICENCE",
 ]
 

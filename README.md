@@ -4,15 +4,9 @@
   </a>
 </p>
 
-<h1 align="center">pushit</h1>
+<h1 align="center">Pushit</h1>
 
 Send Pushover notifications.
-
-<p align="center">
-  <a href="https://pushit.thelupaxaproject.org/">Documentation</a>
-  ·
-  <a href="https://github.com/lupaxa-notifications-toolbox/pushit">GitHub</a>
-</p>
 
 ## Install
 
@@ -88,6 +82,16 @@ client.list_sounds()
 make init
 make python-install-dev
 make python-check
+```
+
+## Documentation
+
+Site pages live in `mkdocs/` and publish to
+<https://pushit.thelupaxaproject.org/>.
+
+```bash
+make init
+make python-install-dev
 make mkdocs-serve
 ```
 

@@ -1,6 +1,6 @@
 # Usage
 
-## Command modes
+## Command Modes
 
 `--text` is required for a send. `--emergency` and `--group` may be
 combined. `--priority` cannot be combined with `--emergency`, and
@@ -9,7 +9,7 @@ combined. `--priority` cannot be combined with `--emergency`, and
 `--sounds` lists sound names and cannot be combined with a send. It may
 be used with `--token` and `--user`.
 
-## Command flags
+## Command Flags
 
 - `--user`: Pushover user key
 - `--token`: application API token

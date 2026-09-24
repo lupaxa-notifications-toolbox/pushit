@@ -1,4 +1,4 @@
-# Getting started
+# Getting Started
 
 ## Requirements
 
@@ -19,7 +19,7 @@ Send a message:
 pushit --user "$PUSHOVER_USER_KEY" --token "$PUSHOVER_API_TOKEN" --text "Hello"
 ```
 
-## Create a profile
+## Create a Profile
 
 Profiles live in `$HOME/.pushit.yml` by default:
 
