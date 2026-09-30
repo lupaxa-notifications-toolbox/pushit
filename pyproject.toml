@@ -36,8 +36,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://pushit.thelupaxaproject.org/"
-Documentation = "https://pushit.thelupaxaproject.org/"
+Homepage = "https://github.com/lupaxa-notifications-toolbox/pushit"
+Documentation = "https://github.com/lupaxa-notifications-toolbox/pushit"
 Repository = "https://github.com/lupaxa-notifications-toolbox/pushit"
 Issues = "https://github.com/lupaxa-notifications-toolbox/pushit/issues"
 
@@ -53,8 +53,6 @@ dev = [
   "hatch>=1.12.0",
   "bump-my-version>=1.2.0",
   "pip-audit>=2.7.0",
-  "mkdocs==1.6.1",
-  "mkdocs-material==9.7.7",
 ]
 test = [
   "pytest>=8.0",
